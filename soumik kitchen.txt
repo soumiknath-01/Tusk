@@ -5,3 +5,6 @@ chiken
 dal
 
 misti
+
+payes
+dahi
